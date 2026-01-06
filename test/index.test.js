@@ -84,3 +84,4 @@ describe('Event Handling Tests', () => {
     expect(textInputDisplay.textContent).toBe('You typed: Hello')
   })
 })
+
